@@ -33,7 +33,7 @@ This project includes the raw data of the research article 'Negative density-reg
 | Sex  | Sex |
 | density  | Number of lizard in 1250 m^2 |
 
-# Sheet `stage fight`
+## Sheet `stage fight`
 
 | Column | Description |
 | :-- | :-- |
@@ -44,9 +44,20 @@ This project includes the raw data of the research article 'Negative density-reg
 | is.R.win | Resident as winner|
 | rScore | Rank level of resident highest agressive behavior |
 
-# Sheet `bite force`
+## Sheet `bite force`
+| Column | Description |
+| :-- | :-- |
+| Site | Lizard population |
+| Sex | Sex |
+| Body weight | Lizard body weight (g) |
+| Head length | Lizard head length (mm) |
+| Head width | Lizard head width (mm) |
+| Head height | Lizard head height (mm) |
+| SVL |Lizard snout-vent length (mm) |
+| Bite Force | Lizard bite force (N) |
 
-## Abstract ##
+
+# Abstract ##
 1. Territoriality is a behavioral adaptation resulting from intraspecific competition and reflects the strategy of how individuals share limited resources in the environment. As a consequence, territorial contests and levels of aggressiveness are strongly influenced by population density.
 2. The positive relationship between population density and the intensity of intraspecific competition may appear straightforward. However, empirical evidence regarding this association remains inconclusive. This ambiguity may be attributed to studies that have predominantly focused on specific fight-associated traits while overlooking the comprehensive assessment of multiple phenotypic characteristics.
 3. To examine the effects of population density and other ecological factors on the variation in fight behavior as well as fight-associated morphology and performance. We conducted population surveys and behavioral experiments using the Swinhoe’s tree lizard across eight populations.
