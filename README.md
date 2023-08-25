@@ -13,7 +13,7 @@ This project includes the raw data of the research article 'Negative density-reg
 | n.injured | Number of injured males |
 | n.not.injured | Number of not injured males |
 | injury.ave | Injury ratio |
-| selectDiff | Standardized selection differential of male snout- vent length |
+| selectDiff | Standardized selection differential of male snout-vent length |
 | Comp.1 | 1st principle component of habitat composition |
 | Comp.2 | 2nd principle component of habitat composition |
 | Comp.3 | 3rd principle component of habitat composition |
@@ -34,6 +34,16 @@ This project includes the raw data of the research article 'Negative density-reg
 | density  | Number of lizard in 1250 m^2 |
 
 # Sheet `stage fight`
+
+| Column | Description |
+| :-- | :-- |
+| Site  | Lizard population |
+| resident (SVL) | Snout-vent length of resident lizard |
+| intruder (SVL) | Snout-vent length of intruder lizard |
+| max.aggresive | Resident highest agressive behavior |
+| is.R.win | Resident as winner|
+| rScore | Rank level of resident highest agressive behavior |
+
 # Sheet `bite force`
 
 ## Abstract ##
