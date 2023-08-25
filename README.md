@@ -2,6 +2,8 @@
 
 This project includes the raw data of the research article 'Negative density-regulated contest performance promotes conflict resolution in a tree lizard' by Hsu et al.
 
+Data are in the file `negative-density-regulated-contest-performance.ods`. 
+
 # Content
 
 ## Sheet `covariates by population`
